@@ -1,4 +1,4 @@
-### Hello! I'm currently a senior studying Computer Engineering at Univeristy of Washington!
+### Hello! I'm currently a senior studying Computer Engineering at University of Washington!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkennerly&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br>
 
